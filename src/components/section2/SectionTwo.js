@@ -6,7 +6,7 @@ function SectionTwo() {
     <div className="divSectionTwo">
       <div className="collectionDivSectionTwo">
         <div>
-          <img  data-aos="fade-up" className ="imgSectionTwo" src="https://www.l-page.co.il/wp-content/uploads/2022/03/KIRYATYAM.jpg"/>
+          <img  data-aos="fade-up" className ="imgSectionTwo" src="https://www.l-page.co.il/wp-content/uploads/2022/03/KIRYATYAM.jpg" alt="imgall"/>
         </div>
         <div className="textDivSectionTwo" data-aos="fade-down">
     
