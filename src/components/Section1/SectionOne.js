@@ -23,7 +23,7 @@ function SectionOne() {
           className={"avatar-img"}
           src={img}
           loading={"lazy"}
-          alt={"Avatar Image"}
+          alt="Avatarr"
         />
       </div>
     </div>
