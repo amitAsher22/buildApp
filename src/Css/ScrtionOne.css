@@ -26,6 +26,7 @@
 
 .ImgAndTextSectionOne {
   display: flex;
+  flex-direction: column;
   flex-wrap: wrap;
   align-items: center;
   margin-bottom: 50px;
